@@ -242,3 +242,5 @@ RESOURCE_GROUP="<YOUR-RESOURCE-GROUP>"
 # run this command
 az group delete --name $RESOURCE_GROUP
 ```
+#   n e i g h b o o r l y  
+ 
