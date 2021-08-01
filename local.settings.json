@@ -1,9 +1,11 @@
 {
   "IsEncrypted": true,
   "Values": {
-    "FUNCTIONS_WORKER_RUNTIME": "CfDJ8KvJ6DmYyMJCgkPKMHi9yggxobSNL+EiBudqjTbkN08MV8FPGx7WqKyJXi1vK5/3O48YnxQvGjJtBiH2gbzh8qUxrA2On+1JRf1xQeWwdKwATocSwT1CMT9SN2gtzXs0ZQ=="
+    "AzureWebJobsStorage": "CfDJ8LG4Ol7F8CxIk11yM1Cc92Ur4/st4pXD+aDKHqDgXy4a/4g2g5iN50+Q6JaFJ92s3SQl2NW83hOwjZzRD+P2pzlCY6hVBshjJfNgbiPOeEP1sr1zUmv/je9eDQlybsKJqwNtJUxhUcFiUMAKnujPoHUibcGEYv1QBWncdtpE6X4Rz84X0b1NSEAzzB9lyA2uYJ0sa1bSpO9vDQ8LKsz5XQaaON7JV/AIt2JR85wWwmMBygiZvGnNXGYIcxG351SLxhuiaoKByQDaOb1ltp9IJYXL/dq3K4qZkufZmWdQnmjSKExhyFnsJysk7L1l7+YOsoN3fujsrqFB05fEzfIlns8jPgCFYHZoDCQbBgSEu0xQ",
+    "FUNCTIONS_EXTENSION_VERSION": "CfDJ8LG4Ol7F8CxIk11yM1Cc92Xmd0qeUqE9eUfX0Ifh9huFfRvlQtsLeHrhD0UFp5f4dftoLxI7ND4pmefklGSxnmJnzO1d1e2cJIYRArGipgR4jIHHoxB+xrK2m/LJPcLIJg==",
+    "FUNCTIONS_WORKER_RUNTIME": "CfDJ8LG4Ol7F8CxIk11yM1Cc92UkMLhi25OcE0jZpu3ETfKK2vpp3oXjlVeM6qhsNfVhV9yq0gxZpbgrLlNoXr0yk99eeWCNusSV4gMIJ0s4B48jXB/+lYQCkLap7jawAw6fiA==",
+    "syahril": "CfDJ8LG4Ol7F8CxIk11yM1Cc92U8dUHtKj9lx9PYxMKCi+vMjYg3KN66lNVAAkHguTjC1XafbRxWzuP+GkeAd8M642Si9wnAiqI4KmXDeK2WzaICh9Wq/tGfrpRlLFxWA0DLzy8BaeeHoY23HI6zLirdEDhsmQUUQa1PsItfpeNgGRBu2mkxa0yye13rKhtpQPotGU+BtvYDexfUT5bq82KGTiuzuPLB0IXRfbfFDrR91nEY87wknorEH+d3dViV0cclcrNxBa7iKILzFbTqgp/aTX1lGWuZBhcZC4zVFehM3Cl7+fQ7LrUUmSul9vNxvd2Q7Ej9UKOeyd7U9yL3N9AuKeaKEW4jochqCv86qUoIPkTz7rKaq+piseJyvoDiLhEJrjw7lBiQFM1eok+/R7d7AoVXh1xnUhG9qpLoYyx0pBXk",
+    "syahril_STORAGE": "CfDJ8LG4Ol7F8CxIk11yM1Cc92UXGOKmfvrxpYZFPAc2JLctT2/pWIc6bn975EU3YowbCQ7N9gsnLaL7jOaYwIQ6DNIy5dYyuK9W0ITJ7s4sx3kyAkaD2OsIvfpkvs++2Y9erf7m+JzAVgSm5sU2m8tTW6G788ffv7s/cJ7RwkAIjrkXt3pK+HnpX1UsIH9sF/3d71oaPHp/7hA8adpjIj/Jlk1SmK/cSJceWX46Zekz9AYhBrvPGhiI7M9vExM4lFSeTRar0cY5EcILHa9pFDPe4RyLGbpbJsDEQeb9exzm7j7yCcLtOqSlWZHCng/vMZl/xA=="
   },
-  "ConnectionStrings": {},
-
-  "AzureWebJobsStorage": ""
+  "ConnectionStrings": "mongodb://syahril:KJO15EiWVPPmVrEH5j7GxJxUJweJU6WR4jL3puiPymIReei2de4syScJ0PCAKBj3dInYVC86ypIE5NONhKHvIw==@syahril.mongo.cosmos.azure.com:10255/?ssl=true&retrywrites=false&replicaSet=globaldb&maxIdleTimeMS=120000&appName=@syahril@"
 }
